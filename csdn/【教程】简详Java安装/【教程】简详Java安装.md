@@ -26,25 +26,25 @@
 
 ### **搜索环境变量**
 
-![4.png](https://github.com/BProbie/Paper/blob/master/csdn/%E3%80%90%E7%AE%80%E8%AF%A6%E3%80%91Java%E5%AE%89%E8%A3%85/4.png?raw=true)
+![4.png](https://github.com/BProbie/Paper/blob/master/csdn/%E3%80%90%E6%95%99%E7%A8%8B%E3%80%91%E7%AE%80%E8%AF%A6Java%E5%AE%89%E8%A3%85/4.png?raw=true)
 
 
 
 ### **打开环境变量**
 
-![5.png](https://github.com/BProbie/Paper/blob/master/csdn/%E3%80%90%E7%AE%80%E8%AF%A6%E3%80%91Java%E5%AE%89%E8%A3%85/5.png?raw=true)
+![5.png](https://github.com/BProbie/Paper/blob/master/csdn/%E3%80%90%E6%95%99%E7%A8%8B%E3%80%91%E7%AE%80%E8%AF%A6Java%E5%AE%89%E8%A3%85/5.png?raw=true)
 
 
 
 ### **添加环境变量**
 
-![6.png](https://github.com/BProbie/Paper/blob/master/csdn/%%E3%80%90%E7%AE%80%E8%AF%A6%E3%80%91Java%E5%AE%89%E8%A3%85/6.png?raw=true)
+![6.png](https://github.com/BProbie/Paper/blob/master/csdn/%E3%80%90%E6%95%99%E7%A8%8B%E3%80%91%E7%AE%80%E8%AF%A6Java%E5%AE%89%E8%A3%85/6.png?raw=true)
 
 
 
 ### **保存环境变量**
 
-![7.png](https://github.com/BProbie/Paper/blob/master/csdn/%E3%80%90%E7%AE%80%E8%AF%A6%E3%80%91Java%E5%AE%89%E8%A3%85/7.png?raw=true)
+![7.png](https://github.com/BProbie/Paper/blob/master/csdn/%E3%80%90%E6%95%99%E7%A8%8B%E3%80%91%E7%AE%80%E8%AF%A6Java%E5%AE%89%E8%A3%85/7.png?raw=true)
 
 
 
@@ -52,4 +52,4 @@
 
 ### **命令行检验(java -version)**
 
-![8.png](https://github.com/BProbie/Paper/blob/master/csdn/%E3%80%90%E7%AE%80%E8%AF%A6%E3%80%91Java%E5%AE%89%E8%A3%85/8.png?raw=true)
+![8.png](https://github.com/BProbie/Paper/blob/master/csdn/%E3%80%90%E6%95%99%E7%A8%8B%E3%80%91%E7%AE%80%E8%AF%A6Java%E5%AE%89%E8%A3%85/8.png?raw=true)
