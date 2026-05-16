@@ -6,7 +6,7 @@
 
 ### **https://www.oracle.com/cn/java/technologies/downloads**
 
-![1.png](https://github.com/BProbie/Paper/blob/main/csdn/%E3%80%90%E7%AE%80%E8%AF%A6%E3%80%91Java%E5%AE%89%E8%A3%85/1.png?raw=true)
+![1.png](https://github.com/BProbie/Paper/blob/main/csdn/【教程】简详Java安装/1.png?raw=true)
 
 
 
