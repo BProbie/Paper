@@ -6,7 +6,7 @@
 
 ### **https://www.oracle.com/cn/java/technologies/downloads**
 
-![1.png](https://github.com/BProbie/Paper/blob/main/csdn/【教程】简详Java安装/1.png?raw=true)
+![1.png](https://github.com/BProbie/Paper/blob/main/csdn/%E3%80%90%E6%95%99%E7%A8%8B%E3%80%91%E7%AE%80%E8%AF%A6Java%E5%AE%89%E8%A3%85/1.png?raw=true)
 
 
 
@@ -14,13 +14,13 @@
 
 ### **解压**
 
-![2.png](https://github.com/BProbie/Paper/blob/main/csdn/%E3%80%90%E7%AE%80%E8%AF%A6%E3%80%91Java%E5%AE%89%E8%A3%85/2.png?raw=true)
+![2.png](https://github.com/BProbie/Paper/blob/main/csdn/%E3%80%90%E6%95%99%E7%A8%8B%E3%80%91%E7%AE%80%E8%AF%A6Java%E5%AE%89%E8%A3%85/2.png?raw=true)
 
 
 
 ### **复制路径(D:\Downloads\jdk-25_windows-x64_bin\jdk-25.0.2)**
 
-![3.png](https://github.com/BProbie/Paper/blob/main/csdn/%E3%80%90%E7%AE%80%E8%AF%A6%E3%80%91Java%E5%AE%89%E8%A3%85/3.png?raw=true)
+![3.png](https://github.com/BProbie/Paper/blob/main/csdn/%E3%80%90%E6%95%99%E7%A8%8B%E3%80%91%E7%AE%80%E8%AF%A6Java%E5%AE%89%E8%A3%85/3.png?raw=true)
 
 
 
@@ -38,7 +38,7 @@
 
 ### **添加环境变量**
 
-![6.png](https://github.com/BProbie/Paper/blob/main/csdn/%E3%80%90%E7%AE%80%E8%AF%A6%E3%80%91Java%E5%AE%89%E8%A3%85/6.png?raw=true)
+![6.png](https://github.com/BProbie/Paper/blob/main/csdn/%%E3%80%90%E7%AE%80%E8%AF%A6%E3%80%91Java%E5%AE%89%E8%A3%85/6.png?raw=true)
 
 
 
